@@ -1,7 +1,5 @@
 # Supervised-Machine-Learning---Predicting-Credit-Risk
 
-# Supervised Machine Learning Homework - Predicting Credit Risk
-
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
 
 ## Background
